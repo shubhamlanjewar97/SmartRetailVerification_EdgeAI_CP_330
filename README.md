@@ -155,14 +155,19 @@ The system consists of two main components:
 </table>
 
 
-## Graphical user interface
+## Graphical User Interface
+
 <table>
   <tr>
-    <td><img src="image/smart_retail_fail.png" alt="fail" width="1200"></td>
-    <td><img src="image/smart_retail_pass.png" alt="pass" width="1200"></td>
+    <td><img src="image/smart_retail_fail.png" alt="fail" width="1000"></td>
   </tr>
   <tr>
-    <td align="center">Verification fails due to object missmatch</td>
+    <td align="center">Verification fails due to object mismatch</td>
+  </tr>
+  <tr>
+    <td><img src="image/smart_retail_pass.png" alt="pass" width="1000"></td>
+  </tr>
+  <tr>
     <td align="center">Verification success</td>
   </tr>
 </table>
