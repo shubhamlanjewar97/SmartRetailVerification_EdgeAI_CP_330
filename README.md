@@ -25,8 +25,16 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
   </tr>
 </table>
 
-## Object Dection in OpenMV
-<img src="image/openmv_2.png" alt="Object Detection" width="400">
+## Setup
+
+<table>
+  <tr>
+    <td align="center"><img src="image/setup.jpg" alt="Setup" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">Experimental Setup for Smart Retail Verification System</td>
+  </tr>
+</table>
 
 
 
