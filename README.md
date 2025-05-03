@@ -1,6 +1,6 @@
 # Smart Retail Verification System
 
-![Smart Retail Verification](https://via.placeholder.com/800x400?text=Smart+Retail+Verification)
+
 
 ## Overview
 
