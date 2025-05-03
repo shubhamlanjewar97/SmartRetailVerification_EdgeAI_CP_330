@@ -49,8 +49,8 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
     <td><img src="image/openmv_1.png" alt="Detection summary" width="400"></td>
   </tr>
   <tr>
-    <td align="center">INT8 Quantized Model</td>
-    <td align="center">Float32 Model (No Quantization)</td>
+    <td align="center">Live object detection</td>
+    <td align="center">Detection summary</td>
   </tr>
 </table>
 
