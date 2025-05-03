@@ -12,10 +12,18 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
 
 
 
-## Object Dection in OpenMV
-<img src="image/confidence_8.png" alt="Training Summary (int8 quantization)" width="400">
+## Object Detection in OpenMV
 
-<img src="image/confidence_32.png" alt="Training Summary (no quantization)" width="400">
+<table>
+  <tr>
+    <td><img src="image/confidence_8.png" alt="Training Summary (int8 quantization)" width="400"></td>
+    <td><img src="image/confidence_32.png" alt="Training Summary (no quantization)" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">INT8 Quantized Model</td>
+    <td align="center">Float32 Model (No Quantization)</td>
+  </tr>
+</table>
 
 ## Object Dection in OpenMV
 <img src="image/openmv_2.png" alt="Object Detection" width="400">
