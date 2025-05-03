@@ -29,46 +29,6 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
 
 
 
-## Model Training Summary
-
-<table>
-  <tr>
-    <td><img src="image/confidence_8.png" alt="Training Summary (int8 quantization)" width="400"></td>
-    <td><img src="image/confidence_32.png" alt="Training Summary (no quantization)" width="400"></td>
-  </tr>
-  <tr>
-    <td align="center">INT8 Quantized Model</td>
-    <td align="center">Float32 Model (No Quantization)</td>
-  </tr>
-</table>
-
-## Object detection in OpenMV
-<table>
-  <tr>
-    <td><img src="image/openmv_2.png" alt="Live object detection" width="400"></td>
-    <td><img src="image/openmv_1.png" alt="Detection summary" width="400"></td>
-  </tr>
-  <tr>
-    <td align="center">Live object detection</td>
-    <td align="center">Detection summary</td>
-  </tr>
-</table>
-
-
-## Graphical user interface
-<table>
-  <tr>
-    <td><img src="image/smart_retail_fail.png" alt="fail" width="400"></td>
-    <td><img src="image/smart_retail_pass.png" alt="pass" width="400"></td>
-  </tr>
-  <tr>
-    <td align="center">Verification fails due to object missmatch</td>
-    <td align="center">Verification success</td>
-  </tr>
-</table>
-
-
-
 ## Features
 
 - **Real-time Object Detection**: FOMO (Faster Objects, More Objects) model for fast and accurate detection
@@ -122,6 +82,29 @@ The system consists of two main components:
 | Inference Time | 115ms            | 60ms         |
 | Memory Usage   | 363.2KB          | 119.4KB      |
 
+
+
+
+
+
+## Model Training Summary
+
+<table>
+  <tr>
+    <td><img src="image/confidence_8.png" alt="Training Summary (int8 quantization)" width="400"></td>
+    <td><img src="image/confidence_32.png" alt="Training Summary (no quantization)" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">INT8 Quantized Model</td>
+    <td align="center">Float32 Model (No Quantization)</td>
+  </tr>
+</table>
+
+
+
+
+
+
 ## Installation
 
 ### Setting up the Nicla Vision
@@ -157,6 +140,35 @@ The system consists of two main components:
 5. Enter items manually in the "Biller Items" panel
 6. Click "VERIFY ITEMS" to compare both lists
 7. Review verification results
+
+
+## Object detection in OpenMV
+<table>
+  <tr>
+    <td><img src="image/openmv_2.png" alt="Live object detection" width="400"></td>
+    <td><img src="image/openmv_1.png" alt="Detection summary" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">Live object detection</td>
+    <td align="center">Detection summary</td>
+  </tr>
+</table>
+
+
+## Graphical user interface
+<table>
+  <tr>
+    <td><img src="image/smart_retail_fail.png" alt="fail" width="400"></td>
+    <td><img src="image/smart_retail_pass.png" alt="pass" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">Verification fails due to object missmatch</td>
+    <td align="center">Verification success</td>
+  </tr>
+</table>
+
+
+
 
 ## Project Structure
 
