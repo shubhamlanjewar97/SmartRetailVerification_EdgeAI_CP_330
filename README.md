@@ -54,6 +54,21 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
   </tr>
 </table>
 
+
+## Graphical user interface
+<table>
+  <tr>
+    <td><img src="image/smart_retail_fail.png" alt="fail" width="400"></td>
+    <td><img src="image/smart_retail_pass.png" alt="pass" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">Verification fails due to object missmatch</td>
+    <td align="center">Verification success</td>
+  </tr>
+</table>
+
+
+
 ## Features
 
 - **Real-time Object Detection**: FOMO (Faster Objects, More Objects) model for fast and accurate detection
