@@ -10,11 +10,11 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
 
 <img src="image/setup.jpg" alt="Setup" width="400">
 
-<img src="image/openmv_2.jpg" alt="Object Detection" width="400">
+<img src="image/openmv_2.png" alt="Object Detection" width="400">
 
-<img src="image/confidence_8.jpg" alt="Training Summary (int8 quantization)" width="400">
+<img src="image/confidence_8.png" alt="Training Summary (int8 quantization)" width="400">
 
-<img src="image/confidence_32.jpg" alt="Training Summary (no quantization)" width="400">
+<img src="image/confidence_32.png" alt="Training Summary (no quantization)" width="400">
 
 
 ## Features
