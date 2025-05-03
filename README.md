@@ -6,6 +6,9 @@
 
 The Smart Retail Verification system uses Edge AI to reduce errors at retail billing counters. The system employs a Nicla Vision device to detect retail items using a compact object detection model and communicates with a Python GUI application that verifies billed versus detected items.
 
+![Alt text](image/setup.jpg)
+
+
 ## Features
 
 - **Real-time Object Detection**: FOMO (Faster Objects, More Objects) model for fast and accurate detection
