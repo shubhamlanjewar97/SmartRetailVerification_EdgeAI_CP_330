@@ -45,8 +45,8 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
 ## Object detection in OpenMV
 <table>
   <tr>
-    <td><img src="image/openmv_2.png" alt="Training Summary (int8 quantization)" width="400"></td>
-    <td><img src="image/openmv_1.png" alt="Training Summary (no quantization)" width="400"></td>
+    <td><img src="image/openmv_2.png" alt="Live object detection" width="400"></td>
+    <td><img src="image/openmv_1.png" alt="Detection summary" width="400"></td>
   </tr>
   <tr>
     <td align="center">INT8 Quantized Model</td>
