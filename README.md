@@ -69,7 +69,7 @@ The system consists of two main components:
    cd smart-retail-verification
    ```
 
-2. Upload the `ei_object_detection_4_latency.py` file to your Nicla Vision device using the OpenMV IDE.
+2. Upload the `ei_object_detection_nicla.py` file to your Nicla Vision device using the OpenMV IDE.
 
 3. Ensure your Nicla Vision is positioned 30-45cm above the scanning area.
 
@@ -82,7 +82,7 @@ The system consists of two main components:
 
 2. Run the Python GUI application:
    ```
-   python smart_retail_7_prices.py
+   python smart_retail_verification_final.py
    ```
 
 ## Usage
@@ -97,8 +97,8 @@ The system consists of two main components:
 
 ## Project Structure
 
-- `ei_object_detection_4_latency.py`: Code for the Nicla Vision device
-- `smart_retail_7_prices.py`: Python GUI application
+- `ei_object_detection_nicla.py`: Code for the Nicla Vision device
+- `smart_retail_verification_final.py`: Python GUI application
 - `docs/`: Documentation and reports
 
 ## Dataset
