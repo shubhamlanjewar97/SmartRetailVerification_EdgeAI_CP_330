@@ -8,7 +8,24 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
 
 
 ## Setup
-<img src="image/setup.jpg" alt="Setup" width="400">
+
+<table>
+  <tr>
+    <td align="center"><img src="image/setup.jpg" alt="Setup" width="400"></td>
+  </tr>
+  <tr>
+    <td align="center">Experimental Setup for Smart Retail Verification System</td>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li>Nicla Vision mounted 45cm above detection area</li>
+        <li>Items placed in camera's field of view</li>
+        <li>Connected to PC application via USB</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 
