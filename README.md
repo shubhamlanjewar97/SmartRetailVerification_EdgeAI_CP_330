@@ -42,18 +42,6 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
   </tr>
 </table>
 
-## Setup
-
-<table>
-  <tr>
-    <td align="center"><img src="image/setup.jpg" alt="Setup" width="400"></td>
-  </tr>
-  <tr>
-    <td align="center">Experimental Setup for Smart Retail Verification System</td>
-  </tr>
-</table>
-
-
 
 
 ## Features
