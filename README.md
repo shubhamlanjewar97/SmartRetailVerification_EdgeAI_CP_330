@@ -176,7 +176,8 @@ The system consists of two main components:
 
 - `ei_object_detection_nicla.py`: Code for the Nicla Vision device
 - `smart_retail_verification_final.py`: Python GUI application
-- `docs/`: Documentation and reports
+- `docs/`: presentation ppt and report
+- `image/`: images used in this README file
 
 ## Dataset
 
