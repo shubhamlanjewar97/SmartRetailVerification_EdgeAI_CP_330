@@ -126,16 +126,20 @@ The system consists of two main components:
 3. Ensure your Nicla Vision is positioned 30-45cm above the scanning area.
 
 ### Setting up the PC Application
+1. **Option 1: Run from Python Source**
+   - Install the required Python packages:
+     ```
+     pip install pyserial pillow
+     ```
+   - Run the Python GUI application:
+     ```
+     python smart_retail_verification_final.py
+     ```
 
-1. Install the required Python packages:
-   ```
-   pip install pyserial pillow
-   ```
-
-2. Run the Python GUI application:
-   ```
-   python smart_retail_verification_final.py
-   ```
+2. **Option 2: Download Pre-compiled Executable**
+   - For Windows users who don't want to install Python, download the pre-compiled executable:
+   - [Download Smart Retail Verification.exe](https://indianinstituteofscience-my.sharepoint.com/:u:/g/personal/shubhaml_iisc_ac_in/ESGwE5Gx7LZLs0vLDWJFl7YBuWhq98niVKT_Fky5nEyVUg?e=GfTCie)
+   - Simply download, and run
 
 ## Usage
 
