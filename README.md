@@ -27,14 +27,11 @@ The Smart Retail Verification system uses Edge AI to reduce errors at retail bil
   </tr>
 </table>
 
-# Smart Retail Verification using Edge AI
 
-## Demo Videos
+## Demo Video
 [![Smart Retail Verification Demo](https://img.youtube.com/vi/7rlVvd7OBcQ/0.jpg)](https://youtu.be/7rlVvd7OBcQ)
 
 Click the image above to watch our project demonstration video!
-
-You can also view our original demo video [here](https://youtu.be/41o1G4XasQA).
 
 
 
